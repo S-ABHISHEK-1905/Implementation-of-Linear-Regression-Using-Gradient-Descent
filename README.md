@@ -74,11 +74,6 @@ plt.ylabel("loss")
 ```
 
 ## OUTPUT:
-![output](./ml-1.png)
-
-
-![output](./ml-2.png)
-
 
 
 ![output](./ml-4.png)
